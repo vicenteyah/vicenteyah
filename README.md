@@ -1,16 +1,53 @@
-### Hi there 👋
+# Eliud Vicente Yah Dzul
+<h2>नमस्ते (Namaste)🙏🏻, I'm Vicente Yah! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em> Student of Software Engineer at <a href="https://www.itmerida.mx">TECNM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**vicenteyah/vicenteyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const aboutMe = {
+   code: [Javascript,  HTML, CSS, Python, Java, Git, Github,Docker],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Vue"],
+         css: ["Bootstrap","flexbox"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         misc: ["Bash"]
+      },
+      databases: ["MongoDB", "mySQL"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+```
+
+## Programming Languages / Frameworks :computer:
+
+- Know/Using
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node logo" width="70">](https://nodejs.org/es/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" width="40">](https://isocpp.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">](https://es.reactjs.org/) | 
+|---|---|---|---|---|---|
+
+
+
+<br>
+
+## Tools and other Tecnologies :hammer_and_wrench:	
+
+- Know/Using
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">](https://code.visualstudio.com/) | [<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker logo" width="40">](https://www.docker.com/) |
+|---|---|---|
+
+<br>
+
+## Databases :floppy_disk:	
+
+- Know/Using
+
+| [<img src="https://i.dlpng.com/static/png/468328_preview.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres logo" width="60">](https://www.postgresql.org/) | [<img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?resize=600%2C400&ssl=1" alt="mysql logo" width="80">](https://www.mysql.com/)  | 
+|---|---|---|

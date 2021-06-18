@@ -1,5 +1,4 @@
-# Eliud Vicente Yah Dzul
-<h2>नमस्ते (Namaste)🙏🏻, I'm Vicente Yah! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1>नमस्ते (Namaste)🙏🏻, I'm Vicente Yah! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <p><em> Student of Software Engineer at <a href="https://www.itmerida.mx">TECNM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 

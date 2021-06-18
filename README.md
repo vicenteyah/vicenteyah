@@ -44,7 +44,7 @@ const aboutMe = {
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">](https://code.visualstudio.com/) | [<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker logo" width="40">](https://www.docker.com/) |[<img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" alt="docker logo" width="50">](https://www.postman.com/)|[<img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" alt="docker logo" width="50">](https:https://www.gitkraken.com/)|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">](https://code.visualstudio.com/) | [<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker logo" width="40">](https://www.docker.com/) |[<img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" alt="docker logo" width="50">](https://www.postman.com/)|[<img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" alt="docker logo" width="50">](https://www.gitkraken.com/)|
 |---|---|---|---|---|
 
 <br>

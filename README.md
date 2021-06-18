@@ -32,6 +32,10 @@ const aboutMe = {
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node logo" width="70">](https://nodejs.org/es/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" width="40">](https://isocpp.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">](https://es.reactjs.org/) | 
 |---|---|---|---|---|---|
 
+- Learning
+
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="vue logo" width="70">](https://redux.js.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="react logo" width="80">](https://www.djangoproject.com/)
+|---|---|
 
 
 <br>

@@ -21,7 +21,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL"],
    },
-   currentOccupation: ["student yet, open for job opportunities"],
+   currentOccupation: ["student yet, software engineer at Nativo Digital"],
    challenge: "I'm working towards being able to run a marathon.",
 ```
 

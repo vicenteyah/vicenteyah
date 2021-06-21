@@ -18,7 +18,7 @@ const aboutMe = {
          js: ["Node", "Express"],
          misc: ["Bash"]
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["MongoDB", "mySQL","postgres"],
    },
    currentOccupation: ["student yet, software engineer at Nativo Digital"],
    challenge: "I'm working towards being able to run a marathon.",

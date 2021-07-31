@@ -11,12 +11,19 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["Bootstrap","flexbox"]
+         css: [
+            "Bootstrap",
+            "React antd",
+            "React Bulma",
+            "Boostrap Vue",
+            "Vuetify",
+            "flexbox"
+         ]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         misc: ["Bash"]
+         js: ["Node", "Express","Hapi"],
+         python:["Flask"],
+         Shell: ["Bash","Zsh"]
       },
       databases: ["MongoDB", "mySQL","postgres"],
    },

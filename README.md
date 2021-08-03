@@ -15,7 +15,7 @@ const aboutMe = {
             "Bootstrap",
             "React antd",
             "React Bulma",
-            "Boostrap Vue",
+            "Bootstrap Vue",
             "Vuetify",
             "flexbox"
          ]

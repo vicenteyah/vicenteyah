@@ -38,10 +38,31 @@ const aboutMe = {
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node logo" width="70">](https://nodejs.org/es/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" width="40">](https://isocpp.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">](https://es.reactjs.org/) | 
 |---|---|---|---|---|---|
 
-- Learning
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="vue logo" width="70">](https://redux.js.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="react logo" width="80">](https://www.djangoproject.com/)
+### Frontend
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="vue logo" width="70">](https://redux.js.org/) | [<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" width="70">](https://material-ui.com/)|[<img src="https://material-ui.com/static/logo.png" alt="Material Ui" width="70">](https://material-ui.com/)
+|---|---|---|---|
+
+|[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1280px-Nuxt_logo.svg.png" alt="react logo" width="50">](https://nuxtjs.org/) | [<img src="https://logowiki.net/uploads/logo/v/vuetify.svg" alt="Vuetify" width="50">](https://vuetifyjs.com/en/)|[<img src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png" alt="Bootstrap Vue" width="50">](https://bootstrap-vue.org/?ref=stackshare)
+|---|---|---|---|
+
+### CSS
+| [<img src="https://static.vaadin.com/directory/user70309/icon/file3460235915593609009_1554052408926logo.png" alt="CSS grid" width="50">](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout)|[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Y7nAWs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/hahwcwzkrcd3glxt4bxd.jpg" alt="CSS Flexbox" width="50">](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox )
 |---|---|
+
+
+### Backend
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node logo" width="70">](https://nodejs.org/es/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="80">](https://www.djangoproject.com/) 
+|---|---|---|---|
+
+
+
+### Learning
+
+| [<img src="https://miro.medium.com/max/724/1*mn2h7oJ8yMHBcmsNSbCIbA.png" alt="Django Rest" width="80">](https://www.django-rest-framework.org/) |[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="80">](https://aws.amazon.com/es/)
+|---|---|
+
 
 
 <br>

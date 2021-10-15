@@ -40,7 +40,7 @@ const aboutMe = {
 
 
 ### Frontend
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="vue logo" width="70">](https://redux.js.org/) | [<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" width="70">](https://material-ui.com/)|[<img src="https://material-ui.com/static/logo.png" alt="Material Ui" width="70">](https://material-ui.com/)
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="vue logo" width="70">](https://redux.js.org/) | [<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" width="70">](https://material-ui.com/)|[<img src="https://img.icons8.com/color/452/material-ui.png" alt="Material Ui" width="70">](https://material-ui.com/)
 |---|---|---|---|
 
 |[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1280px-Nuxt_logo.svg.png" alt="react logo" width="50">](https://nuxtjs.org/) | [<img src="https://logowiki.net/uploads/logo/v/vuetify.svg" alt="Vuetify" width="50">](https://vuetifyjs.com/en/)|[<img src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png" alt="Bootstrap Vue" width="50">](https://bootstrap-vue.org/?ref=stackshare)

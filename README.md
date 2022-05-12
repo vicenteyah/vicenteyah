@@ -10,7 +10,7 @@ const aboutMe = {
    code: [Javascript,  HTML, CSS, Python, Java, Git, Github,Docker],
    technologies: {
       frontEnd: {
-         js: ["React", "Vue"],
+         js: ["React", "Vue","Nextjs"],
          css: [
             "Bootstrap",
             "React antd",
@@ -21,8 +21,8 @@ const aboutMe = {
          ]
       },
       backEnd: {
-         js: ["Node", "Express","Hapi"],
-         python:["Flask"],
+         js: ["Node", "Express","Hapi","NestJS"],
+         python:["Flask","Django","Django rest framework"],
          Shell: ["Bash","Zsh"]
       },
       databases: ["MongoDB", "mySQL","postgres"],

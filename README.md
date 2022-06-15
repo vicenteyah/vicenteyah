@@ -7,7 +7,7 @@
 
 ```ts
 const aboutMe = {
-   code: [Javascript,  HTML, CSS, Python, Java, Git, Github,Docker],
+   code: [JavaScript, TypeScript, HTML, CSS, Python, Java, Git, Github,Docker],
    technologies: {
       frontEnd: {
          js: ["React", "Vue","Nextjs"],
@@ -71,7 +71,7 @@ const aboutMe = {
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">](https://code.visualstudio.com/) | [<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker logo" width="40">](https://www.docker.com/) |[<img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" alt="docker logo" width="50">](https://www.postman.com/)|[<img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" alt="docker logo" width="50">](https://www.gitkraken.com/)|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">](https://code.visualstudio.com/) | [<img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker logo" width="40">](https://www.docker.com/) |[<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="50">](https://www.postman.com/)|[<img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" alt="docker logo" width="50">](https://www.gitkraken.com/)|
 |---|---|---|---|---|
 
 <br>

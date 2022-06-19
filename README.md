@@ -28,7 +28,6 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL","postgres"],
    },
    currentOccupation: ["software engineer at Nativo Digital"],
-   challenge: "I'm working towards being able to run a marathon.",
 ```
 
 ## Programming Languages / Frameworks :computer:

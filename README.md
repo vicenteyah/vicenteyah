@@ -27,7 +27,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL","postgres"],
    },
-   currentOccupation: ["software engineer at Nativo Digital"],
+   currentOccupation: ["Backend Developer at Accenture"],
 ```
 
 ## Programming Languages / Frameworks :computer:
